@@ -22,8 +22,8 @@ Design an experiment in the Azure ML Studio by training a model to predict the h
 **& some research... (max. 15%):** 
 
 Implement a sliding window method which makes consumption predictions for near future periods. The model should use a regressor to form a collection of regressors with the following particularity:
-  • A regressor is built every h-hours using data from the previous dhours (h and d are program parameter to be tuned).
-  • The prediction should use k-regressors (k is a program parameter to be tuned) from the collection giving more importance to recent regressors. 
+  - A regressor is built every h-hours using data from the previous dhours (h and d are program parameter to be tuned).
+  - The prediction should use k-regressors (k is a program parameter to be tuned) from the collection giving more importance to recent regressors. 
 
 To implement this, use a method to select the regressors based on their timestamp. E.g., think of a roulette wheel with different sized slices or use a technique to “forget” older regressors.
 Show (e.g., some statistics and plots) the accuracy of your prediction for the next hours.
