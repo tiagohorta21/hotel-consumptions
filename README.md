@@ -12,7 +12,7 @@ Use Pandas to make a study of your data. Present statistics, plot graphs, etc. U
 it to, for instance, add a value with the day of the week, etc.
 
 Data study
-- Season with more guests
+- Week days with more guests
 - Week days with more energy consumption
 - Graph with a relation between the temperature and the number of guests
 
