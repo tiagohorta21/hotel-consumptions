@@ -18,7 +18,9 @@ Data study
 
 ### Prediction model (max. 50%):
 
-Use the Scikit-learn library to elaborate a study comparing several methods to preview the hotel consumptions. Make a justified decision for one of those methods - use (grid) cross-validation. Use Jupyter notebooks to do your study, and present your justifications using the markdown functionalities. Remember that you should only preview consumptions for days in the future when compared with the timestamp of the training data, i.e., you should “not use a split with shuffle method”. Furthermore, present your results (predictions) for at least 10 days, i.e., select “10” representative days, train with past data and compute the average results (e.g., mean square/absolute error, R2 or others).
+1. Use the Scikit-learn library to elaborate a study comparing several methods to preview the hotel consumptions. Make a justified decision for one of those methods - use (grid) cross-validation. 
+2. Use Jupyter notebooks to do your study, and present your justifications using the markdown functionalities. Remember that you should only preview consumptions for days in the future when compared with the timestamp of the training data, i.e., you should “not use a split with shuffle method”. 
+3. Furthermore, present your results (predictions) for at least 10 days, i.e., select “10” representative days, train with past data and compute the average results (e.g., mean square/absolute error, R2 or others).
 
 ### Azure ML Studio (max. 10%):
 
