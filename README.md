@@ -24,7 +24,9 @@ Data study
 
 ### Azure ML Studio (max. 10%):
 
-Design an experiment in the Azure ML Studio by training a model to predict the hotel’s consumption. Use that model to build a web service. Create an Excel file which connects to that web service and provides predictions given the above features.
+1. Design an experiment in the Azure ML Studio by training a model to predict the hotel’s consumption. 
+2. Use that model to build a web service. 
+3. Create an Excel file which connects to that web service and provides predictions given the above features.
 
 ### & some research... (max. 15%):
 
